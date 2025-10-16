@@ -4,7 +4,7 @@ const App = () => {
   return (
     <div>
         <h1>Hello Shoaib</h1>
-        <button>change user</button>
+        <button onClick={h1 = 'hello dear'}>change</button>
         
     </div>
   )
