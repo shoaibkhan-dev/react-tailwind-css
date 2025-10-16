@@ -2,8 +2,10 @@ import React from 'react'
 
 const App = () => {
   return (
-    <div className='bg-red-600'>
-      <h1>hello</h1>
+    <div>
+        <h1>Hello Shoaib</h1>
+        <button>change user</button>
+        
     </div>
   )
 }
